@@ -9586,10 +9586,16 @@ const sp = [["path", {
                 children: "We Are Getting Married"
             }), c.jsx("p", {
                 className: Z.names,
-                children: "Dr. Shameem Sithara & Dr. Muhammad Safeer M A"
+                children: "Dr. Shameem Sithara"
+            }), c.jsx("p", {
+                className: Z.names,
+                children:"&"
+            }), c.jsx("p", {
+                className: Z.names,
+                children:"Dr. Muhammad Safeer M A"
             }), c.jsx("div", {
                 className: Z.eventTag,
-                children: t ? "RECEPTION" : "Nikah & Reception"
+                children: t ? "RECEPTION" : "Reception"
             }), c.jsxs("div", {
                 className: Z.dateColumns,
                 children: [c.jsx("div", {
@@ -9900,7 +9906,7 @@ const sp = [["path", {
     detailText: um,
     mapOutlineBtn: sm
 }
-  , am = "/assets/11.jpeg"
+  , am = "/assets/kotta.jpeg"
   , cm = "/assets/12.jpeg"
   , fm = ({inviteType: e="both"}) => {
     const t = true;   // always show first card
@@ -9963,9 +9969,9 @@ const sp = [["path", {
                                 }), c.jsxs("div", {
                                     className: L.detailText,
                                     children: [c.jsx("p", {
-                                        children: "Kottayil Convention Centre, Edathara"
+                                        children: "Kottayil Convention Centre"
                                     }), c.jsx("p", {
-                                        children: "Palakkad"
+                                        children: "Edathara, Palakkad"
                                     })]
                                 })]
                             }), c.jsxs("a", {
@@ -9996,7 +10002,7 @@ const sp = [["path", {
                         className: L.cardHeader,
                         children: c.jsx("h3", {
                             className: L.venueTitle,
-                            children: "Nikah & Reception"
+                            children: "Reception"
                         })
                     }), c.jsx("div", {
                         className: L.cardContent,
@@ -10028,9 +10034,9 @@ const sp = [["path", {
                                 }), c.jsxs("div", {
                                     className: L.detailText,
                                     children: [c.jsx("p", {
-                                        children: "Kottayil Convention Centre, Edathara"
+                                        children: "Kottayil Convention Centre"
                                     }), c.jsx("p", {
-                                        children: "Palakkad"
+                                        children: "Edathara, Palakkad"
                                     })]
                                 })]
                             }), c.jsxs("a", {
@@ -10293,7 +10299,7 @@ const sp = [["path", {
                     children: [c.jsxs("div", {
                         className: we.locationDetails,
                         children: [c.jsx("h4", {
-                            children: "Nikah & Reception"
+                            children: "Reception"
                         }), c.jsxs("p", {
                             children: [c.jsx("strong", {
                                 children: "Kottayil Convention Centre, Edathara"

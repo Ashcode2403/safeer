@@ -147,16 +147,18 @@
 
 /* NAMES */
 ._names_kv4bu_75 {
-  font-size: 3rem;
-  font-style: italic;
+  font-size: 4rem;
+  /* font-style: italic; */
+  font-weight: 500;
   color: #d4af37;
   margin-bottom: 10px;
+  margin: -20px;
 }
 
 /* EVENT TAG */
 ._eventTag_kv4bu_93 {
   letter-spacing: 3px;
-  margin-top: 10px;
+  margin-top: 50px;
   color: #eee;
 }
 
@@ -222,10 +224,12 @@
   }
 
   ._names_kv4bu_75 {
-    font-size: 2rem;
+    font-size: 2.3rem;
+    
   }
 
   ._dateCol_kv4bu_105 {
     font-size: 1.8rem;
   }
 }
+

@@ -444,8 +444,9 @@ background-image: linear-gradient(#f2f4f100, #f2f4f100), url("/assets/image1.jpe
 
 ._names_kv4bu_75 {
     font-size: 3.5rem;
-    font-family: var(--font-heading);
-    font-style: italic;
+    font-family: 'Italianno', cursive;
+    /* font-style: italic; */
+    font-weight: 400;
     margin-bottom: var(--spacing-xs);
     color: var(--primary-color);
     text-shadow: 1px 2px 10px rgba(0,0,0,.9);
@@ -467,7 +468,7 @@ background-image: linear-gradient(#f2f4f100, #f2f4f100), url("/assets/image1.jpe
     text-transform: uppercase;
     color: var(--primary-light);
     margin-top: var(--spacing-md);
-    margin-bottom: -10px;
+    margin-bottom: 20px;
     opacity: 0;
     animation: _fadeIn_kv4bu_1 1.5s ease-out 1.2s forwards
 }
@@ -551,7 +552,7 @@ background-image: linear-gradient(#f2f4f100, #f2f4f100), url("/assets/image1.jpe
     }
 
     ._names_kv4bu_75 {
-        font-size: 2.5rem
+        font-size: 2.6rem
     }
 
     ._subtitle_kv4bu_52 {
@@ -871,7 +872,7 @@ background-image: linear-gradient(#f2f4f100, #f2f4f100), url("/assets/image1.jpe
 
 ._name_tsk3i_125 {
     font-family: var(--font-heading);
-    font-size: 2.8rem;
+    font-size: 2.4rem;
     color: var(--primary-color);
     margin-bottom: var(--spacing-sm);
     margin-top: 0
@@ -924,7 +925,7 @@ background-image: linear-gradient(#f2f4f100, #f2f4f100), url("/assets/image1.jpe
     }
 
     ._name_tsk3i_125 {
-        font-size: 2.4rem
+        font-size: 1.9rem
     }
 }
 
